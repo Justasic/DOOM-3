@@ -34,7 +34,7 @@ Vagary specific AI code
 ***********************************************************************/
 
 #include "../../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 #include "../Game_local.h"
 

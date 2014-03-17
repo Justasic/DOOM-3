@@ -3,7 +3,7 @@
 
 //#include "stdafx.h"
 #include "../../../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 
 #include "PropTreeView.h"

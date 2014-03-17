@@ -1,6 +1,6 @@
 
 #include "../precompiled.h"
-#pragma hdrstop
+#pragma once
 
 /*
    MD5 Message Digest Algorithm. (RFC1321)

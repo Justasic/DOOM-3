@@ -32,7 +32,7 @@ Various utility objects and functions.
 */
 
 #include "../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 #include "Game_local.h"
 

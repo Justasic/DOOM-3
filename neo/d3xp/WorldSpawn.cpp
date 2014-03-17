@@ -33,7 +33,7 @@ Worldspawn class.  Each map has one worldspawn which handles global spawnargs.
 */
 
 #include "../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 #include "Game_local.h"
 

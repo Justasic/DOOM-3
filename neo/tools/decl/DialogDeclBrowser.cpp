@@ -27,7 +27,7 @@ If you have questions concerning this license or the applicable additional terms
 */
 
 #include "../../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 #include "../../sys/win32/rc/DeclEditor_resource.h"
 #include "../../sys/win32/rc/ScriptEditor_resource.h"

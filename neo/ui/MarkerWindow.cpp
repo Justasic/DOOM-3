@@ -27,7 +27,7 @@ If you have questions concerning this license or the applicable additional terms
 */
 
 #include "../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 // included for image uploading for player stat graph
 #include "../renderer/Image.h"

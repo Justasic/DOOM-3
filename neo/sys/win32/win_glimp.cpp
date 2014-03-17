@@ -41,7 +41,7 @@ If you have questions concerning this license or the applicable additional terms
 ** related functions that are relevant ONLY to win_glimp.c
 */
 #include "../../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 #include "win_local.h"
 #include "rc/AFEditor_resource.h"

@@ -1,5 +1,5 @@
 #include "../../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 #define INITGUID
 

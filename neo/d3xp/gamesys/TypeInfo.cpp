@@ -31,7 +31,7 @@ If you have questions concerning this license or the applicable additional terms
 #define protected	public
 
 #include "../../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 #include "../Game_local.h"
 

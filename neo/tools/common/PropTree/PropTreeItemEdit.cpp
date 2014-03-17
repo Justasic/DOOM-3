@@ -18,7 +18,7 @@
 
 //#include "stdafx.h"
 #include "../../../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 #include "proptree.h"
 #include "PropTreeItemEdit.h"

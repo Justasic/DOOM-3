@@ -32,7 +32,7 @@ Invisible entities that affect other entities or the world when activated.
 */
 
 #include "../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 #include "Game_local.h"
 

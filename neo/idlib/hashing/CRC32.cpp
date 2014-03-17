@@ -1,6 +1,6 @@
 
 #include "../precompiled.h"
-#pragma hdrstop
+#pragma once
 
 /*
    CRC-32

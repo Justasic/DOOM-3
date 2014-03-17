@@ -28,7 +28,7 @@ If you have questions concerning this license or the applicable additional terms
 
 #include "../idlib/precompiled.h"
 #include "../sys/sys_local.h"
-#pragma hdrstop
+#pragma once
 
 #include "TypeInfoGen.h"
 

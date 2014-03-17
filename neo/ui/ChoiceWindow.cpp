@@ -27,7 +27,7 @@ If you have questions concerning this license or the applicable additional terms
 */
 
 #include "../idlib/precompiled.h"
-#pragma hdrstop
+#pragma once
 
 #include "DeviceContext.h"
 #include "Window.h"
